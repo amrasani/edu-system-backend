@@ -1,0 +1,4 @@
+[2026-08-28 23:14:00.067] info: [transfer] Diagnostic log file: E:\M3 claud soft 1000 programmer course 2025-1-8\000_my training  programming2025\React_course_2026_1_19\00-react-projects\Education-system -online\edu-system-backend\transfer_1787948040061.log (info-level messages are written here even without --verbose)
+[2026-08-28 23:14:00.068] info: [remote-destination-provider] establishing websocket connection
+
+[2026-08-28 23:14:00.911] error: [FATAL] Failed to initialize the connection: Data transfer is not enabled on the remote host

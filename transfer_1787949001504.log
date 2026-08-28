@@ -1,0 +1,4 @@
+[2026-08-28 23:30:01.512] info: [transfer] Diagnostic log file: E:\M3 claud soft 1000 programmer course 2025-1-8\000_my training  programming2025\React_course_2026_1_19\00-react-projects\Education-system -online\edu-system-backend\transfer_1787949001504.log (info-level messages are written here even without --verbose)
+[2026-08-28 23:30:01.513] info: [remote-destination-provider] establishing websocket connection
+
+[2026-08-28 23:30:02.490] error: [FATAL] Failed to initialize the connection: Authentication Error
